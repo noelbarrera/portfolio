@@ -1,7 +1,7 @@
 import React from "react";
 const HeroSection = () => {
   return (
-    <section className="flex flex-col justify-center items-start lg:py-16">
+    <section className="flex flex-col justify-center items-start py-16">
       <div className="flex flex-row items-center">
         <img
           className="max-w-none rounded-full h-20 w-20 mr-5"
