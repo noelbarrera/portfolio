@@ -5,7 +5,7 @@ import Image from "next/image";
 
 const Navbar = () => {
   return (
-    <nav className="flex flex-row justify-between text-white mt-11">
+    <nav className="flex flex-row justify-between text-white mt-12">
       <ul className="flex flex-row">
         <li className="mr-3 hover:underline">
           <Link href="/">About</Link>
